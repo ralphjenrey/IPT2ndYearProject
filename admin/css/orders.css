@@ -1,0 +1,49 @@
+
+table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+      }
+      th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: center;
+      }
+      td:nth-child(1) {
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+      td:nth-child(4), td:nth-child(5) {
+        font-weight: bold;
+        color: green;
+      }
+      td:nth-child(4) {
+        color: #007bff;
+      }
+      /* td:nth-child(4)::before {
+        content: '$';
+      } */
+      td:nth-child(5)::before {
+        content: '₱';
+      }
+
+
+      /* CSS for the drop-down */
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        z-index: 1;
+        min-width: 300px;
+        background-color: #f9f9f9;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 12px;
+      }
+
+      tr:hover {
+        background-color: #f5f5f5;
+      }
