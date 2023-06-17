@@ -48,7 +48,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="about-us.php">About</a></li>
           <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
-          <li><a class="nav-link scrollto" href="#chefs">Members</a></li>
+          <li><a class="nav-link scrollto" href="#testimonials">Members</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
@@ -71,7 +71,7 @@
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Check our Deals</a>
-            <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Order now</a>
+            <a href="user-order-UI.php" class="btn-book animated fadeInUp scrollto">Order now</a>
           </div>
         </div>
         </div>

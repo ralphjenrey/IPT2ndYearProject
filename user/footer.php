@@ -30,7 +30,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="about-us.php">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="terms-of-service.php">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="private-policy.php">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
             </ul>
           </div>
 
